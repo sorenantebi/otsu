@@ -1,0 +1,1 @@
+Ostu and Kmeans thresholding without OpenCV
